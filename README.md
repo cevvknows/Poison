@@ -461,4 +461,4 @@ HitEffectModule.Locals.Type["Cosmic Explosion"] = Attachment
 local Glow = Instance.new("ParticleEmitter")
 Glow.Name = "Glow"
 Glow.Lifetime = NumberRange.new(0.16, 0.16)
-Glow.Transparency =
+Glow.Transparency = no permission not allowed
